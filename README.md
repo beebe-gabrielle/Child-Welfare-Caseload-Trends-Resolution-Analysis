@@ -1,5 +1,5 @@
 <p align="center">
-<img width="284" height="157" alt="image" src="https://github.com/user-attachments/assets/df3dce88-ce56-4d40-8cd7-6217364e90cc" />
+<img width="236" height="152" alt="image" src="https://github.com/user-attachments/assets/e0086528-2bb1-49e2-bcb9-9aefefb1e439" />
 </p>
 
 # Child Welfare Caseload Trends Resolution Analysis
