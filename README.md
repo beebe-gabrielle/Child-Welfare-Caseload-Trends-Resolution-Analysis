@@ -19,3 +19,5 @@
 # Summary of Insights
 
 # Recommendations & Next Steps
+
+https://theacademy.sdsu.edu/wp-content/uploads/2021/10/CWDS-Research-Summary_Caseload-Standards-and-Weighting.pdf
